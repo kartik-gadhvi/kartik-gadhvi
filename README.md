@@ -94,7 +94,7 @@ I like the part where pixels meet logic — building things that feel as good as
 
 </div>
 
-> One-time setup needed for this — see the comment at the bottom of this README.
+> 
 
 ---
 
